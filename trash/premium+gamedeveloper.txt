@@ -1,0 +1,74 @@
+                  <div id = "premium-register">
+                    <a href="">
+                       <div id = "premium-register1">
+                             <img src="/image/icon/vip.png" alt="" height="100px" style="margin: 10px; margin-bottom: 0;">
+                             <div style="font-size: 25px;"> 
+                                <span><img src="/image/icon/crown.png" alt="" height="25px"> <span style="color: rgb(249, 205, 93);">Premium</span> <img src="/image/icon/crown.png" alt="" height="25px"> </span>
+                            
+                            </div>
+                       </div>
+                    </a>
+                  </div>
+
+                  <div id = "publisher-register">
+                    <a href="">
+                       <div id = "publisher-register1">
+                             <img src="/image/icon/game create.png" alt="" height="100px" style="margin: 10px; margin-bottom: 0;">
+                             <div style="font-size: 25px; color: black;"> 
+                                 For developers
+                            </div>
+                       </div>
+                    </a>
+                  </div>
+
+
+#premium-register{
+    height: 160px;
+    margin: 50px;
+    text-align: center;
+}
+
+#premium-register1{
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+    background-color: rgba(251, 94, 94, 0.6);
+    height: 100%;
+    width: 100%;
+    border-radius: 30px;
+    font-size: 20px;
+    font-style: italic;
+}
+
+#publisher-register{
+    height: 160px;
+    margin: 50px;
+    text-align: center;
+}
+
+#publisher-register1{
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+    background-color: rgba(56, 246, 243, 0.666);
+    height: 100%;
+    width: 100%;
+    border-radius: 30px;
+    font-size: 20px;
+    font-style: italic;
+}
+
+                    <div>
+                        <div class="side-button">
+                            <div class="icon-side-button">
+                               <img src="/image/icon/premium.png" alt="">
+                            </div>
+                        </div>
+                    </div>
+                    <div>
+                        <div class="side-button">
+                            <div class="icon-side-button">
+                                <img src="/image/icon/upload.png" alt="">
+                            </div>
+                        </div>
+                    </div>
